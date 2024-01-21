@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ARJUNAN S</h1>
 <h3 align="center">Full Stack Developer | Devops Learner</h3>
-<img src="[example.jpg](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" alt="Example Image" width="300" align="right" height="200">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Example Image" width="300" align="right" height="200">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunan1234&label=Profile%20views&color=0e75b6&style=flat" alt="arjunan1234" /> </p>
 
