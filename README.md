@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **arjunansri21@gmail.com**
 
